@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "lib": [
+      "DOM",
+      "DOM.Iterable",
+      "ESNext"
+    ],
+    "typeRoots": [
+      "src/types"
+    ],
+    "allowJs": true,
+    "skipDefaultLibCheck": true,
+    "esModuleInterop": true,
+    
+  }
+}
